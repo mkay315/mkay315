@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mkay315
+- 👋 Hi 
 - 👀 I’m interested in Python, SQL, HTML5, C#, C++, Javascript,
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning Python and SQL in my spare time
 
 
 <!---
